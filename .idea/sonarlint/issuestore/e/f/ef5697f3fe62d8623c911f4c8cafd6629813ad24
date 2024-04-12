@@ -4,8 +4,8 @@ java:S6813
 "BRemove this field injection and use constructor injection instead.(êæÄŞ8¥¥ü‘í1
 _
 java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8„ßı‘í1
-L	java:S106"+Replace this use of System.out by a logger.(Î€ß°üÿÿÿÿ8©¥ü‘í1
-G	java:S106"+Replace this use of System.out by a logger.(Ë’8«¥ü‘í1
-G	java:S106"+Replace this use of System.out by a logger.(Ş¿Ûõ8­¥ü‘í1
-L	java:S106"+Replace this use of System.out by a logger.(İ»Öãûÿÿÿÿ8­¥ü‘í1
-F	java:S106"+Replace this use of System.out by a logger.(É¯¸i8­¥ü‘í1
+L	java:S106"+Replace this use of System.out by a logger.(Î€ß°üÿÿÿÿ8©¥ü‘í1
+G	java:S106"+Replace this use of System.out by a logger.(Ë’8«¥ü‘í1
+G	java:S106"+Replace this use of System.out by a logger.(Ş¿Ûõ8­¥ü‘í1
+L	java:S106"+Replace this use of System.out by a logger.(İ»Öãûÿÿÿÿ8­¥ü‘í1
+F	java:S106"+Replace this use of System.out by a logger.(É¯¸i8­¥ü‘í1
